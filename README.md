@@ -7,14 +7,16 @@ _Created for the purposes of learning how to use RxJS inside React App with Type
 ### Game Plan
 
 Functionalities:
--   [ ] countdown 
--   [ ] reset countdown button 
--   [ ] terminate countdown button 
+
+-   [x] countdown
+-   [ ] reset countdown button
+-   [ ] terminate countdown button
 -   [ ] start countdown button
 -   [ ] input countdown start value
 
 Other:
--   [ ] 
+
+-   [ ]
 
 ---
 
