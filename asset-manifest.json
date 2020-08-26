@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rxjs-learning-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rxjs-learning-app/static/js/main.a75bae07.chunk.js",
+    "main.js.map": "/rxjs-learning-app/static/js/main.a75bae07.chunk.js.map",
+    "runtime-main.js": "/rxjs-learning-app/static/js/runtime-main.e1a55127.js",
+    "runtime-main.js.map": "/rxjs-learning-app/static/js/runtime-main.e1a55127.js.map",
+    "static/js/2.1121f578.chunk.js": "/rxjs-learning-app/static/js/2.1121f578.chunk.js",
+    "static/js/2.1121f578.chunk.js.map": "/rxjs-learning-app/static/js/2.1121f578.chunk.js.map",
+    "index.html": "/rxjs-learning-app/index.html",
+    "precache-manifest.0a124fa077f18483ada1a84c3f82164a.js": "/rxjs-learning-app/precache-manifest.0a124fa077f18483ada1a84c3f82164a.js",
+    "service-worker.js": "/rxjs-learning-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rxjs-learning-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1121f578.chunk.js.LICENSE.txt": "/rxjs-learning-app/static/js/2.1121f578.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1a55127.js",
+    "static/js/2.1121f578.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a75bae07.chunk.js"
+  ]
+}
