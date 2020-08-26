@@ -1,6 +1,6 @@
 ## RxJS Learning - App
 
-_Created for the purposes of learning RxJS. See the [live demo](http://polapolaczek.github.io/rxjs-learning-app)_
+_Created for the purposes of learning how to use RxJS inside React App with Typescript. See the [live demo](http://polapolaczek.github.io/rxjs-learning-app)_
 
 ---
 
@@ -8,6 +8,10 @@ _Created for the purposes of learning RxJS. See the [live demo](http://polapolac
 
 Functionalities:
 -   [ ] countdown 
+-   [ ] reset countdown button 
+-   [ ] terminate countdown button 
+-   [ ] start countdown button
+-   [ ] input countdown start value
 
 Other:
 -   [ ] 
